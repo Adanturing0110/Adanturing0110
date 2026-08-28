@@ -1,6 +1,6 @@
 # Adanturing0110
 
-> Memorable developer positioning.
+> Learning velocity and project potential.
 
 ## Header
 
